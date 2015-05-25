@@ -1,22 +1,25 @@
 {
-  "name": "generator-cg-angular",
-  "version": "3.2.0",
-  "description": "Yeoman Generator for Enterprise Angular projects.",
+  "name": "generator-stan",
+  "version": "0.0.1",
+  "description": "Yeoman generator for using the javascript stack of Socket.io, Typescript, Angular, Node as the focus. Additional libraries are: Lodash, EventEmitter2, Hapi, Joi",
   "keywords": [
     "yeoman-generator",
-    "angular"
+    "angular",
+    "node",
+    "socketio",
+    "typescript"
   ],
-  "homepage": "https://github.com/cgross/generator-cg-angular",
-  "bugs": "https://github.com/cgross/generator-cg-angular/issues",
+  "homepage": "https://github.com/DecodingIdeas/generator-stan",
+  "bugs": "https://github.com/DecodingIdeas/generator-stan/issues",
   "author": {
-    "name": "Chris Gross",
-    "email": "schtoo@schtoo.com",
-    "url": "https://github.com/cgross"
+    "name": "Josh Lunsford",
+    "email": "josh@decodingideas.com",
+    "url": ""
   },
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cgross/generator-cg-angular.git"
+    "url": "git://github.com/DecodingIdeas/generator-stan.git"
   },
   "scripts": {
     "test": "mocha"
